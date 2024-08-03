@@ -29,7 +29,10 @@ CounterProgram
  */
 
 
- body{
+/* 
+RandomNumber
+
+body{
     font-family: Verdana;
     text-align: center;
  }
@@ -44,3 +47,8 @@ CounterProgram
     font-size: 3em;
  }
 
+ */
+
+ #mySubmit{
+    font-size: 1em;
+ }
